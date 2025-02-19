@@ -1,4 +1,4 @@
-type MCQAnswer = "a" | "b" | "c" | "d";
+export type MCQAnswer = "a" | "b" | "c" | "d";
 
 export type Question = {
     id: number;
