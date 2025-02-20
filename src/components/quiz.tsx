@@ -10,7 +10,7 @@ const Quiz = () => {
             {/* Separator */}
             <div className="bg-slate-200 w-full h-px my-2" />
 
-            {/* Main Quiz content */}
+            {/* Main quiz content */}
             <QnA />
         </div>
     );
